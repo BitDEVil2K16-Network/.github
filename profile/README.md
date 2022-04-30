@@ -1,4 +1,4 @@
-## Willkommen hier auf meinem Github Profil
+## Willkommen hier auf meinem Github Profil für das BitDEVil2K16 Network
 
 Derzeit Arbeite ich an Verschiedenen Projekten, zu dem aus der RP Szene bekantesten gehört ``SektorRP`` aka ``Sektor-V RP``
 
@@ -10,11 +10,19 @@ Demnächst wird es hier ein paar mehr Infos geben. Und für den ein oder anderen
 - Utils
 - Helper
 
+Bei der Organisation handelt es sich um die Tools die zum Teil Öffentlich und kostenlos zum Download angeboten werden.
+
+**BitDEVil2K16 Club**
 [BitDEVil2K16 Club Web 😄](https://bitdevil2k16.club)
 
-Oder zum **BitDEVil2K16 Network**
-
+**BitDEVil2K16 Network**
 [BitDEVil2K16 Network Web 😄](https://bitdevil2k16.net)
+
+**Sektor RP**
+[Sektor-RP Web 😄](https://sektor-rp.eu)
+
+**BitDEVil2K16 Window**
+[Soon](#)
 
 <!--
 **BitDEVil2K16/BitDEVil2K16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
