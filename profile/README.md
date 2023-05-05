@@ -24,6 +24,13 @@ Bei der Organisation handelt es sich um die Tools die zum Teil Öffentlich und k
 **BitDEVil2K16 Window**
 [Soon](#)
 
+---------------------------------------------------
+**Organisationen**
+
+[BitDEVil2K16 Club Github](https://github.com/BitDEVil2K16-Club)
+
+[BitDEVil2K16 Network Github](https://github.com/BitDEVil2K16-Network)
+
 <!--
 **BitDEVil2K16/BitDEVil2K16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
